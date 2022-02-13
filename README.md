@@ -1,2 +1,4 @@
 # werken-met-gegevens
-# Van gegevens naar informatie
+# van gegevens naar informatie
+# feestlunch
+# speelhaldag
